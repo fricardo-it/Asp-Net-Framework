@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_ASPNetConnectedMode", "Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode.csproj", "{73FD8805-0F5F-4F3B-B538-A1A843E3C90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementASPNet", "StateManagementASPNet\StateManagementASPNet.csproj", "{A4632ABA-7898-42C6-B29B-868B0EF99128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FD8805-0F5F-4F3B-B538-A1A843E3C90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FD8805-0F5F-4F3B-B538-A1A843E3C90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FD8805-0F5F-4F3B-B538-A1A843E3C90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FD8805-0F5F-4F3B-B538-A1A843E3C90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4632ABA-7898-42C6-B29B-868B0EF99128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4632ABA-7898-42C6-B29B-868B0EF99128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4632ABA-7898-42C6-B29B-868B0EF99128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4632ABA-7898-42C6-B29B-868B0EF99128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24D8872-5763-4D4D-8CDA-A94770C60B05}
+	EndGlobalSection
+EndGlobal
