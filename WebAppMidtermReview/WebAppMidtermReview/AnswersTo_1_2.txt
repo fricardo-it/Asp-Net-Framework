@@ -1,0 +1,133 @@
+﻿
+Review for Midterm Exam
+
+Who are the users of this web app?
+     Teacher(s)
+     Student(s)
+
+For each user, specify what he/she can do?
+
+    Teacher
+       1. To login
+       2. To assign a project to a student after successful login.
+                 - the number of projects assigned cannot exceed 3
+       3. To list all the projects assigned to a given student.
+       4. To view all the students who participate in a given project.
+
+
+    Student
+        1. To login
+        2. To view all the projects assigned after successful login
+
+===============================================
+      
+Question 1 Database Design and Implementation (20 points)
+
+Teachers (TeacherId,FirstName,LastName,Password)
+                  TeacherId : PK
+
+TeacherId          FirstName            LastName         Password
+1111                  Mary              Brown                1111Mary
+2222                 Thomas             Nguyen               2222Thomas
+
+Students (StudentId, FirstName,LastName,Password)
+                  StudentId : PK
+
+Studentid         FirstName             LastName          Password
+1111111           Julia                 White                  1111111Julia
+2222222          John                   Abbot                   2222222John
+3333333          Julie                  Green                  3333333Julie
+
+Projects (ProjectCode, ProjectTitle,DueDate)
+
+ProjectCode                    ProjectTitle                                  DueDate
+PRJ101                           Calculator in C++                         2024-04-10
+PRJ102                          Property Rental Web App            2024-04-19
+PRJ103                          HiTech Online Order System       2024-04-20
+PRJ104                          Car Dealer Web App in C#         2024-03-23 
+
+ProjectAssignments (StudentId,ProjectCode,AssignedDate,SubmittedDate)
+                 (StudentId,ProjectCode) : PK
+
+
+Teacher, Student and Project data are available.
+
+Database Name : StudentProjectDB
+
+===========================================================
+
+Question 2 Web Application Design ( 30 points)
+
+1. Web Pages [Web Forms]
+         
+                 - Login.aspx [ for Teacher and Student]
+                 - ProjectAssignment.aspx [ for Teacher only]
+
+Select Student                                                         
+
+1111111,Julia,White                 
+2222222,John, Abbot                
+3333333,Julie,Green                 
+
+Select Project
+
+PRJ101,Calculator in C++, 2024-04-10
+PRJ102,Property Rental Web App, 2024-04-19
+PRJ103,HiTech Online Order System,2024-04-20
+PRJ104,Car Dealer Web App in C#,2024-03-23 
+
+                 - ProjectListAssigned.aspx
+
+                             Student ID : 1111111
+                             Studentt Name: Julia, White
+
+  Project Code                         Project Title                       Due Date
+
+2. Code Design related to Web pages 
+                
+                BLL                     
+                 	Teacher.cs - ok
+	                Student.cs - ok
+	                Project.cs -  ok
+	                ProjectAssigned.cs - ok
+
+                DAL
+                    UtilityDB.cs
+                    - Method to connect and return  DBConnection - ok
+
+                    StudentDB.cs
+                    - Method to search a student by id - ok
+                    - Method to return a list Of students - ok
+                    ProjectDB.cs
+                    - Method to return a list of projects - ok 
+                    TeacherDB.cs
+                    - Method to search a teacher by id - ok
+
+                    ProjectAssignmentDB.cs  
+                    - Method to assign a project to student
+                    - Method to return a list of projects assigned to a student
+                    - Method to return a list of students assigned to a project
+
+                GUI
+
+		
+
+                VALIDATION:
+	                - Login OK/NOK
+	                - Assign a project to a student after a sucessful login ()
+
+
+Question 3 
+Question 4 Testing the Web App
+
+Teacher
+       1. To login
+       2. To assign a project to a student after successful login.
+                 - the number of projects assigned cannot exceed 3
+       3. To list all the projects assigned to a given student.
+       4. To view all the students who participate in a given project.
+
+
+    Student
+        1. To login
+        2. To view all the projects assigned after successful login

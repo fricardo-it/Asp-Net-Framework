@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\gui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\gui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\validation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\validation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\gui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\gui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\gui\\projectassignment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\gui\\projectassignment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\dal\\projectassignmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\dal\\projectassignmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\gui\\projectassignment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\gui\\projectassignment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\bll\\projectassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\bll\\projectassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\gui\\projectlistassigned.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\gui\\projectlistassigned.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\dal\\projectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\dal\\projectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\dal\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\dal\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|c:\\users\\frica\\onedrive\\documentos\\aula\\la salle\\4 term\\web srv app online\\apps\\webappmidtermreview\\webappmidtermreview\\dal\\teacherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D9662E-909F-49B0-9120-2C661D1C8C13}|WebAppMidtermReview\\WebAppMidtermReview.csproj|solutionrelative:webappmidtermreview\\dal\\teacherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectAssignment.aspx",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectAssignment.aspx",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\GUI\\ProjectAssignment.aspx",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectAssignment.aspx",
+              "RelativeToolTip": "WebAppMidtermReview\\GUI\\ProjectAssignment.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-20T04:18:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\VALIDATION\\Validator.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\VALIDATION\\Validator.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\VALIDATION\\Validator.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\VALIDATION\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:37:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtilityDB.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\UtilityDB.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\DAL\\UtilityDB.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\UtilityDB.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\DAL\\UtilityDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:19:41.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\GUI\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\Login.aspx.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\GUI\\Login.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:18:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectAssignment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectAssignment.aspx.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\GUI\\ProjectAssignment.aspx.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectAssignment.aspx.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\GUI\\ProjectAssignment.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:56:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectAssignmentDB.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\ProjectAssignmentDB.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\DAL\\ProjectAssignmentDB.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\ProjectAssignmentDB.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\DAL\\ProjectAssignmentDB.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwHgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:24:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\Login.aspx",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\GUI\\Login.aspx",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\Login.aspx",
+              "RelativeToolTip": "WebAppMidtermReview\\GUI\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-20T03:06:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectAssigned.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\BLL\\ProjectAssigned.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\BLL\\ProjectAssigned.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\BLL\\ProjectAssigned.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\BLL\\ProjectAssigned.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:30:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectListAssigned.aspx",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectListAssigned.aspx",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\GUI\\ProjectListAssigned.aspx",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\GUI\\ProjectListAssigned.aspx",
+              "RelativeToolTip": "WebAppMidtermReview\\GUI\\ProjectListAssigned.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-20T15:39:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherDB.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\TeacherDB.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\DAL\\TeacherDB.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\TeacherDB.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\DAL\\TeacherDB.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:19:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\StudentDB.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\DAL\\StudentDB.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\StudentDB.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\DAL\\StudentDB.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:19:53.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectDB.cs",
+              "DocumentMoniker": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\ProjectDB.cs",
+              "RelativeDocumentMoniker": "WebAppMidtermReview\\DAL\\ProjectDB.cs",
+              "ToolTip": "C:\\Users\\frica\\OneDrive\\Documentos\\Aula\\LA SALLE\\4 TERM\\WEB SRV APP ONLINE\\Apps\\WebAppMidtermReview\\WebAppMidtermReview\\DAL\\ProjectDB.cs",
+              "RelativeToolTip": "WebAppMidtermReview\\DAL\\ProjectDB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:20:00.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
